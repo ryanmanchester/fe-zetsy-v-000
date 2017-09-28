@@ -21,15 +21,15 @@ body {
 /* Write all remaining styles here */
 /*////////// STYLING /////////////*/
 h1 {
-	font-family: Baskerville;
-	font-size: 80px;
+	font-family: Baskerville serif;
+	font-size: 5em;
 	color: rgb(152,173,166);
-  margin: auto;
+  font-weight: normal;
+  margin: 0 0 5px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #ccc;
   }
 
-  hr {
-    display: block;
-  }
 
  #main img {
 

@@ -32,8 +32,10 @@ h1 {
   }
 
 img {
+    margin-top: 20px;
 		padding: 5px;
 		background-color: rgb(157,176,168);
+
 		}
 
 h2 {

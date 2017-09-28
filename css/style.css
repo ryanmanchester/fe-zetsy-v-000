@@ -21,11 +21,13 @@ body {
 /* Write all remaining styles here */
 /*////////// STYLING /////////////*/
 h1 {
+  display: block;
 	font-family: Baskerville serif;
 	font-size: 5em;
 	color: rgb(152,173,166);
   font-weight: normal;
   margin: 0 0 5px;
+  border-bottom: 1px solid #ccc;
  }
 
 

@@ -22,7 +22,7 @@ body {
 /*////////// STYLING /////////////*/
 h1 {
 	font-family: Baskerville;
-	font-size: 400;
+	font-size: 100px;
 	color: rgb(157,176,168);
   margin: auto;
   }
@@ -45,5 +45,5 @@ color: rgb(101,119,112);
 footer {
 	text-align: right;
   font-size: small;
-  
+
 }

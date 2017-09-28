@@ -24,7 +24,7 @@ h1 {
 	font-family: Baskerville;
 	font-size: 75px;
 	color: rgb(157,176,168);
-  margin: 20px 0;
+  margin: 0 50px;
   }
 
   hr {
@@ -32,7 +32,7 @@ h1 {
   }
 
 img {
-    
+
 		padding: 5px;
 		background-color: rgb(157,176,168);
 

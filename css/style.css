@@ -25,7 +25,10 @@ h1 {
 	font-size: 75px;
 	color: rgb(157,176,168);
   }
-	
+
+  hr {
+    display: block;
+  }
 
 img {
 		padding: 5px;

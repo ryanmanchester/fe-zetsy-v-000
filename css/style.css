@@ -22,7 +22,7 @@ body {
 /*////////// STYLING /////////////*/
 h1 {
   display: block;
-	font-family: 'Baskerville' serif;
+	font-family: 'Baskerville', serif;
 	font-size: 5em;
 	color: rgb(152,173,166);
   font-weight: normal;

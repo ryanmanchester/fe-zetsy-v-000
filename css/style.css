@@ -31,12 +31,9 @@ h1 {
     display: block;
   }
 
-img {
-
-		padding: 5px;
-		background-color: rgb(157,176,168);
-
-		}
+#main img {
+  border: 5px rgb(152,173,166 solid;
+}
 
 h2 {
 color: rgb(101,119,112);

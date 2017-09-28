@@ -43,6 +43,12 @@ color: rgb(101,119,112);
 font-size: 33px;
 }
 
+#press img {
+  border: 5px solid;
+  border-color: #ccc;
+  padding: 1px;
+}
+
 footer {
 	text-align: right;
   font-size: small;

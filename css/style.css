@@ -50,6 +50,10 @@ font-size: 33px;
   border: 5px solid;
   border-color: #ccc;
   padding: 1px;
+  transition: all;
+}
+#press img:hover {
+  background-color: rgb(152,173,166);
 }
 
 footer {
